@@ -1,0 +1,50 @@
+u
+{
+  box-sizing: border-box ;
+}
+body{
+  font-family: Verdana, Geneva, Tahoma, sans-serif ;
+  margin: 15px  30px ;
+  font-size: 17px ;
+  padding: 8px ;
+
+}
+
+.container
+{
+  background-color: antiquewhite ;
+  padding: 15px 20px ;
+  border: lightgray ;
+  border-radius: 4px ; 
+}
+
+
+input [type="password"] ,
+input [type="number"] ,
+input [type="data"],
+input [type="email"],
+
+select,
+textarea {
+
+  width: 100% ;
+  padding: 12px ;
+  spacing: 1px  ;
+}
+fieldset
+
+{
+  background-color : white ;
+  border-inline-start-color: burlywood ;
+}
+.heading {
+ color: rgb(103, 150, 107) ;
+  text-align: center;
+}
+
+input [type"submit"]
+
+{
+  background-color: darkblue ;
+  color: white ;
+}
